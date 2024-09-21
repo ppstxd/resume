@@ -11,3 +11,8 @@ Oct 2017 - Aug 2018: [DHBW](https://www.dhbw-vs.de/)
 2007 - 2015: [Highschool](https://list-gymnasium.de/)
 
 
+## Research Interests
+
+- Remote Sensing
+- Conservation of Biodiversity
+- Sustainable Technolgies
